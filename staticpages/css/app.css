@@ -1,0 +1,23 @@
+.md-navbar {
+    min-height: 40px;
+}
+
+.md-navbar-brand {
+    height: 40px;
+    line-height: 40px;
+    padding: 0 15px;
+}
+
+.md-navbar-nav>li>a {
+    line-height: 40px;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding: 0 20px;
+}
+
+.md-navbar-toggle {
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-right: 5px;
+    border: 0 none;
+}
