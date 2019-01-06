@@ -1,0 +1,30 @@
+.md-title {
+    padding-top: 20px;
+    font-size: 4.5em;
+    font-family: Impact;
+}
+
+.md-sub-title {
+    font-size: 2em;
+    font-family: 'Microsoft YaHei';
+}
+
+.md-footer-imgs {
+    position: relative;
+    height: 150px;
+    text-align: center;
+    overflow-y: hidden;
+    clear: both;
+}
+
+.md-footer-img {
+    position: relative;
+    display: inline-block;
+    width: 110px;
+    padding: 10px 5px;
+    transition: all .2s ease;
+}
+
+.md-footer-img:hover {
+    padding-top: 0px;
+}
